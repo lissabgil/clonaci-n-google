@@ -2,7 +2,7 @@
 # Clonación de la interfaz de Google en el Bootcamp de TecnolochicasPro
 
 ## **ÍNDICE**
-*[1. Intro] (#)
+*[1. Intro](#)
 *[2. Qué construí](#)
 *[3. Objetivo del proyecto](#)
 *[4. Link a demo](#)
@@ -21,6 +21,6 @@ En este proyecto me enfoqué en construir la conación d la interfaz de Google. 
 ## 3. Objetivo del proyecto
 Aprendr a utilizar las etiquetas estándar de HTML5 y estilos CSS3
 
-33 4. Link a Demo
+## 4. Link a Demo
 Aquí puedes visualizar mi proyecto terminado:
 [Clonación de Google](#)
