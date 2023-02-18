@@ -2,10 +2,10 @@
 # Clonación de la interfaz de Google en el Bootcamp de TecnolochicasPro
 
 ## **ÍNDICE**
-*[1. Intro](#)
-*[2. Qué construí](#)
-*[3. Objetivo del proyecto](#)
-*[4. Link a demo](#)
+* [1. Intro](#)
+* [2. Qué construí](#)
+* [3. Objetivo del proyecto](#)
+* [4. Link a demo](#)
 
 
 ****
