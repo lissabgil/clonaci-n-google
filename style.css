@@ -1,0 +1,95 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-size: 13;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    width: 100%;
+    height: 60px;
+}
+
+header nav{
+    display: flex;
+    justify-content: flex-end;
+}
+
+a{
+  text-decoration: none;  
+  cursor: pointer;
+}
+
+header nav .nav-right-section{
+    width: 250px;
+    height: auto;
+    display: flex;
+    list-style-type: none;
+    justify-content: center;
+    align-items: center;
+}
+
+nav .nav-right-section a{
+    margin-right: 25px;
+    color: black;
+}
+
+nav.nav-right-section .menu-icon{
+    background-image: url("https://img.icons8.com/ios-glyphs/90/000000/circled-menu.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+
+main .main-input    .search-icon{
+    background-image: url('https://img.icons8.com/android/24/000000/search.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    width: 18px;
+    height: 18px;
+    padding-left: 25px;
+}
+
+main .main-input .micro-icon{
+    background-image: url('https: //upload .wikimedia .org/wikipedia/commons/thumb/e/e 8px /Google_mic .svg/ 726px Google_mic .svg .png');
+}
+
+main .main-buttons
+
+main .main-buttons div{
+    display: inline-block;
+}
+
+footer {
+    width: 100%;
+    height: 50px;
+    background-color: #f2f2f2;
+    position: absolute;
+    bottom: 0;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+    font-size: 13px;
+    border-top: 1px solid #e4e4e4;
+}
+
+footer ul{
+    margin: 10px;
+    list-style: none;
+    display: flex;
+    padding-left: 0;
+
+}
+
+footer .footer-left{
+    justify-self: left;
+}
+
+footer.footer-right{
+    justify-self: right;
+}
+
+footer ul li a{
+    
+}
